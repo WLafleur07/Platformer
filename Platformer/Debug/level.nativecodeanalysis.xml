@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\game202 - object oriented programming\game202 - labs\lab7\platformer\platformer</FILEPATH>
+      <FILENAME>level.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Level::velocity' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Level::{ctor}</FUNCTION>
+    <DECORATED>??0Level@@QAE@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\game202 - object oriented programming\game202 - labs\lab7\platformer\platformer</FILEPATH>
+      <FILENAME>level.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Level::position' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Level::{ctor}</FUNCTION>
+    <DECORATED>??0Level@@QAE@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\game202 - object oriented programming\game202 - labs\lab7\platformer\platformer</FILEPATH>
+      <FILENAME>level.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Level::loaded' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Level::{ctor}</FUNCTION>
+    <DECORATED>??0Level@@QAE@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\game202 - object oriented programming\game202 - labs\lab7\platformer\platformer</FILEPATH>
+      <FILENAME>level.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Level::texture' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Level::{ctor}</FUNCTION>
+    <DECORATED>??0Level@@QAE@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\game202 - object oriented programming\game202 - labs\lab7\platformer\platformer</FILEPATH>
+      <FILENAME>level.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Level::velocity' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Level::{ctor}</FUNCTION>
+    <DECORATED>??0Level@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HHHH@Z</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\game202 - object oriented programming\game202 - labs\lab7\platformer\platformer</FILEPATH>
+      <FILENAME>level.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Level::texture' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Level::{ctor}</FUNCTION>
+    <DECORATED>??0Level@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HHHH@Z</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\game202 - object oriented programming\game202 - labs\lab7\platformer\platformer</FILEPATH>
+      <FILENAME>level.cpp</FILENAME>
+      <LINE>28</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6284</DEFECTCODE>
+    <DESCRIPTION>Object passed as _Param_(3) when a string is required in call to 'fprintf' Actual type: 'class std::basic_string&lt;char,struct std::char_traits&lt;char&gt;,class std::allocator&lt;char&gt; &gt;'.</DESCRIPTION>
+    <FUNCTION>Level::loadLevel</FUNCTION>
+    <DECORATED>?loadLevel@Level@@QAEHPAUSDL_Renderer@@@Z</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\game202 - object oriented programming\game202 - labs\lab7\platformer\platformer</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Game::collider' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Game::{ctor}</FUNCTION>
+    <DECORATED>??0Game@@QAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\game202 - object oriented programming\game202 - labs\lab7\platformer\platformer</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Game::window' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Game::{ctor}</FUNCTION>
+    <DECORATED>??0Game@@QAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\game202 - object oriented programming\game202 - labs\lab7\platformer\platformer</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Game::renderer' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Game::{ctor}</FUNCTION>
+    <DECORATED>??0Game@@QAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\game202 - object oriented programming\game202 - labs\lab7\platformer\platformer</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Game::next_time' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Game::{ctor}</FUNCTION>
+    <DECORATED>??0Game@@QAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
